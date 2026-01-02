@@ -87,7 +87,7 @@ Mac | 2.7 | 3.4 / 3.5 / 3.6 / 3.7 | No | Yes | MacOS 10.9+
   [Issues labelled Knowledge Base](../../issues?q=is%3Aissue+is%3Aopen+label%3A%22Knowledge+Base%22)
 - To search documentation use GitHub "This repository" search
   at the top. To narrow results to documentation only select
-  "Markdown" in the side pane.
+  "Markdown" in the side pane
 
 ## Support development
 
